@@ -55,6 +55,5 @@ const breadthFirstSearch = (node, searchValue) => {
 
 module.exports = {
     Node,
-    Queue,
     breadthFirstSearch
 }
