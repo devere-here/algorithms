@@ -19,6 +19,8 @@
 
 [Multiply Other Elements](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/multiplyOtherElements.js)
 
+[River Sizes](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/riverSizes.js)
+
 [Water Area](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/waterArea.js)
 
 ### Linked Lists
@@ -56,6 +58,8 @@
 
 ### Stacks And Queues
 [Queue with Two Stacks](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/queueWithTwoStacks.js)
+
+[Triple Stack](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/tripleStack.js)
 
 ### Trees
 [Breadth First Search](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/breadthFirstSearch.js)
