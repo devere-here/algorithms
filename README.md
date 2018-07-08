@@ -52,12 +52,16 @@
 [Powerset](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/powerset.js)
 
 ### Searching and Sorting
+[Quick Select](https://github.com/devere-here/algorithms/blob/master/javascript/searchingAndSorting/quickSelect.js)
+
 [Quick Sort](https://github.com/devere-here/algorithms/blob/master/javascript/searchingAndSorting/quickSort.js)
 
 [Root Of Number](https://github.com/devere-here/algorithms/blob/master/javascript/searchingAndSorting/rootOfNumber.js)
 
 ### Stacks And Queues
 [Queue with Two Stacks](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/queueWithTwoStacks.js)
+
+[Stack Of Plates](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/stackOfPlates.js)
 
 [Triple Stack](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/tripleStack.js)
 
