@@ -13,6 +13,8 @@
 
 ## Javascript
 ### Arrays and Strings
+[Boggle Board](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/boggleBoard.js)
+
 [Largest Range](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/largestRange.js)
 
 [Levenstein Distance](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/levensteinDistance.js)
@@ -20,6 +22,8 @@
 [Multiply Other Elements](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/multiplyOtherElements.js)
 
 [River Sizes](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/riverSizes.js)
+
+[Search In Sorted Matrix](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/searchInSortedMatrix.js)
 
 [Water Area](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/waterArea.js)
 
