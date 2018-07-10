@@ -93,3 +93,5 @@
 [Route Between Nodes](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/routeBetweenNodes.js)
 
 [Sub Tree](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/subTree.js)
+
+[Sum of Paths](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/sumOfPaths.js)
