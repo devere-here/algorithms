@@ -70,6 +70,8 @@
 [Triple Stack](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/tripleStack.js)
 
 ### Trees
+[Arrays That Led To This Tree](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/arraysThatLedToThisTree)
+
 [Breadth First Search](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/breadthFirstSearch.js)
 
 [Check Balanced](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/checkBalanced.js)
@@ -77,6 +79,8 @@
 [Depth First Search](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/depthFirstSearch.js)
 
 [First Common Ancestor](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/firstCommonAncestor.js)
+
+[Get Random Tree Node](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/getRandomTreeNode.js)
 
 [In Order Successor](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/inOrderSuccessor.js)
 
