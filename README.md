@@ -2,18 +2,24 @@
 
 ## Java
 ### Arrays and Strings
-[Binary Search](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/BinarySearch.java)
-
-[Bubble Sort](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/BubbleSort.java)
-
 [Two Number Sum](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/TwoNumberSum.java)
 
 ### Recursion
 [NthFibonacci](https://github.com/devere-here/algorithms/blob/master/java/recursion/NthFibonacci.java)
 
+### Searching And Sorting
+[Binary Search](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/BinarySearch.java)
+
+[Bubble Sort](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/BubbleSort.java)
+
+[Pancake Sort](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/PancakeSort.java)
+
+
 ## Javascript
 ### Arrays and Strings
 [Boggle Board](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/boggleBoard.js)
+
+[Four Number Sum](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/fourNumberSum.js)
 
 [Largest Range](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/largestRange.js)
 
