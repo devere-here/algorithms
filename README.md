@@ -14,6 +14,9 @@
 
 [Pancake Sort](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/PancakeSort.java)
 
+### Trees
+[Depth First Search](https://github.com/devere-here/algorithms/blob/master/java/trees/DepthFirstSearch.java)
+
 
 ## Javascript
 ### Arrays and Strings
@@ -64,6 +67,8 @@
 [Number of Ways Up Staircase](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/numberOfWaysUpStaircase.js)
 
 [Powerset](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/powerset.js)
+
+[Robot on a Grid](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/robotOnAGrid.js)
 
 ### Searching and Sorting
 [Quick Select](https://github.com/devere-here/algorithms/blob/master/javascript/searchingAndSorting/quickSelect.js)
