@@ -31,6 +31,8 @@
 
 [Search In Sorted Matrix](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/searchInSortedMatrix.js)
 
+[Smallest Difference](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/smallestDifference.js)
+
 [Water Area](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/waterArea.js)
 
 ### Linked Lists
@@ -44,6 +46,8 @@
 
 ### Recursion and Dynamic Programming
 [Curried Adder](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/curriedAdder.js)
+
+[Disk Stacking](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/diskStacking.js)
 
 [Flatten A Dictionary](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/flattenADictionary.js)
 
