@@ -5,7 +5,9 @@
 [Two Number Sum](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/TwoNumberSum.java)
 
 ### Recursion
-[NthFibonacci](https://github.com/devere-here/algorithms/blob/master/java/recursion/NthFibonacci.java)
+[Nth Fibonacci](https://github.com/devere-here/algorithms/blob/master/java/recursion/NthFibonacci.java)
+
+[Recursive Multiplication](https://github.com/devere-here/algorithms/blob/master/java/recursion/RecursiveMultiplication.java)
 
 ### Searching And Sorting
 [Binary Search](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/BinarySearch.java)
@@ -57,6 +59,8 @@
 [Get Permutations](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/getPermutations.js)
 
 [Largest Increasing Sub-Set](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/largestIncreasingSubset.js)
+
+[Magic Index](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/magicIndex.js)
 
 [Max Sum Sub-Array](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/maxSubArraySum.js)
 
