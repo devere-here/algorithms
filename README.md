@@ -10,11 +10,11 @@
 [Recursive Multiplication](https://github.com/devere-here/algorithms/blob/master/java/recursion/RecursiveMultiplication.java)
 
 ### Searching And Sorting
-[Binary Search](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/BinarySearch.java)
+[Binary Search](https://github.com/devere-here/algorithms/blob/master/java/searchingAndSorting/BinarySearch.java)
 
-[Bubble Sort](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/BubbleSort.java)
+[Bubble Sort](https://github.com/devere-here/algorithms/blob/master/java/searchingAndSorting/BubbleSort.java)
 
-[Pancake Sort](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/PancakeSort.java)
+[Pancake Sort](https://github.com/devere-here/algorithms/blob/master/java/searchingAndSorting/PancakeSort.java)
 
 ### Trees
 [Depth First Search](https://github.com/devere-here/algorithms/blob/master/java/trees/DepthFirstSearch.java)
@@ -32,11 +32,15 @@
 
 [Multiply Other Elements](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/multiplyOtherElements.js)
 
+[Multi String Search](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/multiStringSearch.js)
+
 [River Sizes](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/riverSizes.js)
 
 [Search In Sorted Matrix](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/searchInSortedMatrix.js)
 
 [Smallest Difference](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/smallestDifference.js)
+
+[Underscorify String](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/underscorifyString.js)
 
 [Water Area](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/waterArea.js)
 
