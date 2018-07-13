@@ -2,6 +2,8 @@
 
 ## Java
 ### Arrays and Strings
+[Palindrome Check](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/PalindromeCheck.java)
+
 [Two Number Sum](https://github.com/devere-here/algorithms/blob/master/java/arraysAndStrings/TwoNumberSum.java)
 
 ### Recursion
@@ -27,6 +29,8 @@
 [Four Number Sum](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/fourNumberSum.js)
 
 [Largest Range](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/largestRange.js)
+
+[Longest Palindromic Substring](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/longestPalindromicSubstring.js)
 
 [Levenstein Distance](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/levensteinDistance.js)
 
