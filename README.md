@@ -64,6 +64,8 @@
 
 [Largest Increasing Sub-Set](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/largestIncreasingSubset.js)
 
+[Longest Substring Without Duplicates](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/longestSubstringWithoutDuplicates.js)
+
 [Magic Index](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/magicIndex.js)
 
 [Max Sum Sub-Array](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/maxSubArraySum.js)
@@ -86,6 +88,8 @@
 [Root Of Number](https://github.com/devere-here/algorithms/blob/master/javascript/searchingAndSorting/rootOfNumber.js)
 
 ### Stacks And Queues
+[Balanced Brackets](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/balancedBrackets.js)
+
 [Queue with Two Stacks](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/queueWithTwoStacks.js)
 
 [Stack Of Plates](https://github.com/devere-here/algorithms/blob/master/javascript/stacksAndQueues/stackOfPlates.js)
