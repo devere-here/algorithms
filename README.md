@@ -76,7 +76,11 @@
 
 [Max Sum Increasing Sub-Sequence](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/maxSumIncreasingSubsequence.js)
 
+[Min Number of Coins For Change](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/minNumberOfCoinsForChange.js)
+
 [Min Number of Jumps](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/minNumberOfJumps.js)
+
+[Number of Ways To Make Change](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/numberOfWaysToMakeChange.js)
 
 [Number of Ways Up Staircase](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/numberOfWaysUpStaircase.js)
 
