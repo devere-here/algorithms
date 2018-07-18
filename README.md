@@ -48,6 +48,7 @@
 * [Largest Increasing Sub-Set](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/largestIncreasingSubset.js)
 * [Longest Substring Without Duplicates](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/longestSubstringWithoutDuplicates.js)
 * [Magic Index](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/magicIndex.js)
+* [Max Non-Adjacent Subset](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/maxNonAdjacentSubset.js)
 * [Max Sum Sub-Array](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/maxSubArraySum.js)
 * [Max Sum Increasing Sub-Sequence](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/maxSumIncreasingSubsequence.js)
 * [Min Number of Coins For Change](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/minNumberOfCoinsForChange.js)
@@ -82,4 +83,5 @@
 * [Minimal Binary Tree](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/minimalBinaryTree.js)
 * [Route Between Nodes](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/routeBetweenNodes.js)
 * [Sub Tree](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/subTree.js)
+* [Suffix Trie Construction](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/suffixTrieConstruction.js)
 * [Sum of Paths](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/sumOfPaths.js)
