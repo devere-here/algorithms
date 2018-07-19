@@ -21,6 +21,7 @@
 ## Javascript
 ### Arrays and Strings
 * [Boggle Board](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/boggleBoard.js)
+* [Caesar Cipher](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/caesarCipher.js)
 * [Four Number Sum](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/fourNumberSum.js)
 * [Largest Range](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/largestRange.js)
 * [Longest Palindromic Substring](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/longestPalindromicSubstring.js)
@@ -79,6 +80,7 @@
 * [Get Random Tree Node](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/getRandomTreeNode.js)
 * [In Order Successor](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/inOrderSuccessor.js)
 * [Is Binary Search Tree](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/isBinarySearchTree.js)
+* [Iterative In-Order Traversal](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/iterativeInOrderTraversal.js)
 * [List of Depths](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/listOfDepths.js)
 * [Minimal Binary Tree](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/minimalBinaryTree.js)
 * [Route Between Nodes](https://github.com/devere-here/algorithms/blob/master/javascript/trees/problems/routeBetweenNodes.js)
