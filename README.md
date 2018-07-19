@@ -29,6 +29,7 @@
 * [Levenstein Distance](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/levensteinDistance.js)
 * [Multiply Other Elements](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/multiplyOtherElements.js)
 * [Multi String Search](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/multiStringSearch.js)
+* [Reorder Array](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/reorderArray.js)
 * [River Sizes](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/riverSizes.js)
 * [Search In Sorted Matrix](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/searchInSortedMatrix.js)
 * [Smallest Difference](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/smallestDifference.js)
