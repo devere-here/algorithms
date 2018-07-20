@@ -22,6 +22,7 @@
 ### Arrays and Strings
 * [Boggle Board](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/boggleBoard.js)
 * [Caesar Cipher](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/caesarCipher.js)
+* [Encode and Decode](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/encodeAndDecode.js)
 * [Four Number Sum](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/fourNumberSum.js)
 * [Largest Range](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/largestRange.js)
 * [Longest Palindromic Substring](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/longestPalindromicSubstring.js)
