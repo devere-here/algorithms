@@ -46,6 +46,7 @@
 * [Zippering Nodes](https://github.com/devere-here/algorithms/blob/master/javascript/linkedLists/zipperingNodes.js)
 
 ### Recursion and Dynamic Programming
+* [Combination Sum](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/combinationSum.js)
 * [Curried Adder](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/curriedAdder.js)
 * [Disk Stacking](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/diskStacking.js)
 * [Flatten A Dictionary](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/flattenADictionary.js)
