@@ -68,6 +68,3 @@ head2.insert(175)
 function logIt(node){
     console.log(node.value)
 }
-
-iterativeInOrderTraversal(head1, logIt) // 5, 10, 15, 20, 25, 35, 50
-iterativeInOrderTraversal(head2, logIt) // 25, 50, 75, 100, 125, 150, 175
