@@ -39,11 +39,17 @@
 * [Underscorify String](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/underscorifyString.js)
 * [Water Area](https://github.com/devere-here/algorithms/blob/master/javascript/arraysAndStrings/waterArea.js)
 
+### Data Structures
+* [Delete Duplicates](https://github.com/devere-here/algorithms/blob/master/javascript/dataStructures/stack.js)
+
 ### Linked Lists
 * [Delete Duplicates](https://github.com/devere-here/algorithms/blob/master/javascript/linkedLists/deleteDuplicates.js)
 * [Find Loop](https://github.com/devere-here/algorithms/blob/master/javascript/linkedLists/findLoop.js)
 * [K To Last](https://github.com/devere-here/algorithms/blob/master/javascript/linkedLists/kToLast.js)
 * [Zippering Nodes](https://github.com/devere-here/algorithms/blob/master/javascript/linkedLists/zipperingNodes.js)
+
+### Math
+* [Base Converter](https://github.com/devere-here/algorithms/blob/master/javascript/math/baseConverter.js)
 
 ### Recursion and Dynamic Programming
 * [Combination Sum](https://github.com/devere-here/algorithms/blob/master/javascript/recursionAndDynamicProgramming/combinationSum.js)
