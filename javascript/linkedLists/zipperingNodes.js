@@ -1,51 +1,52 @@
-const fastAndSlowRunners = head => {
-    let slowPointer = head,
-        fastPointer = head
-
-    do {
-        slowPointer = slowPointer.next
-        fastPointer = fastPointer.next.next
-
-        if (fastPointer === null) fastPointer = head
-
-    } while (fastPointer !== head)
-
-    return {slowPointer, fastPointer}
-
-}
-
 /*
+Write a function that will take a linked list and zipper its nodes. It will rearrange the LL so that all its odd 'indexed' nodes appear first and all its even 'indexed' nodes appear last.
+
+ex: a->b->c->d becomes a->c->b->d
 Space: O(1)
 Time: O(n)
 */
 
-const zipperingNode = head => {
-    let { slowPointer, fastPointer } = fastAndSlowRunners(head),
-        insertedNode
-
-    while (slowPointer){
-        insertedNode = slowPointer
-        slowPointer = slowPointer.next
-        insertedNode.next = fastPointer.next
-        fastPointer.next = insertedNode
-
-        fastPointer = fastPointer.next.next
-    }
-
-    insertedNode.next = null
-
-    return head
+function Node(value){
+    this.value = value
+    this.next = null
 }
 
+Node.prototype.addToLL = function(...values){
+    let currentNode = this
 
-let head = new Node(0)
-head.next = new Node(0)
-head.next.next = new Node(0)
-head.next.next.next = new Node(0)
-head.next.next.next.next = new Node(1)
-head.next.next.next.next.next = new Node(1)
-head.next.next.next.next.next.next = new Node(1)
-head.next.next.next.next.next.next.next = new Node(1)
+    values.forEach(value => {
+        currentNode.next = new Node(value)
+        currentNode = currentNode.next
+    })
+}
 
-head = zipperingNode(head)
-console.log(head)
+const zipperingNodes = (head) => {
+    if (!head) return null
+    if (!head.next) return head
+
+    let oddLL = head,
+        evenLL = head.next,
+        currentOddNode = oddLL,
+        currentEvenNode = evenLL
+
+    while (currentOddNode.next && currentEvenNode.next){
+        currentOddNode.next = currentOddNode.next.next
+        currentEvenNode.next = currentEvenNode.next.next
+
+        currentOddNode = currentOddNode.next
+        currentEvenNode = currentEvenNode.next
+    }
+
+    currentOddNode.next = evenLL
+    return oddLL
+}
+
+let test1 = new Node(0)
+test1.addToLL(1, 0, 1, 0)
+console.log(zipperingNodes(test1))  // 0 -> 0 -> 0 -> 1 -> 1
+
+let test2 = new Node(0)
+test2.addToLL(1, 0, 1)
+console.log(zipperingNodes(test2))  // 0 -> 0 -> 1 -> 1
+
+console.log(zipperingNodes(null))  // null
